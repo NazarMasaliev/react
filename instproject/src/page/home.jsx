@@ -10,7 +10,7 @@ function InstHome() {
                                 <div className="col-12 mt-5">
                                     <div className="row">
                                         <div className="col-6 text-right" style={{ paddingLeft: "50px" }}>
-                                            <h3>instagramm</h3>
+                                            <h3>Instagramm</h3>
                                         </div>
                                         <div className="col-6">
                                             <i class="fa-solid fa-heart fa-2xl" style={{ marginLeft: "180px" }}>
