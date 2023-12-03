@@ -19,7 +19,7 @@ function InstHome() {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-12 mt-4 text-center" style={{ paddingLeft: "30px", paddingRight: "40px" }}>
+                                <div className="col-12 mt-4 text-center border-bottom pb-2" style={{ paddingLeft: "30px", paddingRight: "40px" }}>
                                     <div className="row">
                                         <div className="col-2">
                                             <div className="row">
@@ -89,25 +89,60 @@ function InstHome() {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-12">
+                                <div className="col-12 mt-3 border-bottom pb-2">
                                     <div className="row">
-                                        <div className="col-2">
-                                            
-                                        </div>
-                                        <div className="col-10">
+                                        <div className="col-6">
                                             <div className="row">
-                                                <div className="col-6">
+                                                <div className="col-2">
+                                                    <img className="rounded-circle mt-1" src="https://www.funnyart.club/uploads/posts/2022-12/thumbs/1671175972_www-funnyart-club-p-krasivie-kvadratnie-kartinki-krasivo-62.jpg" alt="" style={{ width: "40px", height: "40px" }} />
+                                                </div>
+                                                <div className="col-10" style={{ textAlign: "left", padding: "0px" }}>
                                                     <div className="row">
                                                         <div className="col-12">
-                                                            
+                                                            Baatyrbekov_LLGG
                                                         </div>
-                                                        <div className="col-12"></div>
+                                                        <div className="col-12">
+                                                            e.24.07.k Оригинальное аудио
+                                                        </div>
                                                     </div>
                                                 </div>
-                                                <div className="col-6"></div>
+                                            </div>
+                                        </div>
+                                        <div className="col-6">
+                                            <div className="row">
+                                                <div className="col-10 pt-1">
+                                                    
+                                                </div>
+                                                <div className="col-2">
+                                                    <i class="fa-solid fa-ellipsis fa-lg"></i>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
+                                </div>
+                                <div className="col-12">
+                                    <img className="ml-5 p-0" style={{ width: "700px" }} src="https://bigpicture.ru/wp-content/uploads/2019/12/6173aaeb4560452f291e28add087a39d.jpg" alt="" />
+                                </div>
+                                <div className="col-12 mt-3 mb-3">
+                                    <div className="row">
+                                        <div className="col-6">
+                                            <i class="fa-solid fa-heart fa-2xl" style={{ marginLeft: "10px" }}></i>
+                                            <i class="fa-solid fa-comment fa-2xl" style={{ marginLeft: "30px" }}></i>
+                                            <i class="fa-solid fa-comment fa-2xl" style={{ marginLeft: "30px" }}></i>
+                                        </div>
+                                        <div className="col-6">
+                                        <i class="fa-solid fa-bookmark fa-2xl" style={{float:"right",marginRight:"20px", marginTop:"14px"}}></i>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="col-12">
+                                    <span style={{marginLeft:"10px"}}>Нравится real_erlan и другие</span>
+                                </div>
+                                <div className="col-12">
+                                    <div className="text-secondary" style={{marginLeft:"10px"}}>смотреть все комментраии (978)</div>
+                                </div>
+                                <div className="col-12">
+                                    <div className="text-secondary" style={{marginLeft:"10px"}}>2 дн. назад</div>
                                 </div>
                                 <InstFooter />
                             </div>
