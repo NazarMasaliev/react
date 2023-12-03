@@ -11,9 +11,9 @@ function App() {
     <div>
       <BrowserRouter>
         <Routes>
-        <Route path="/instsingup" element={<Sing_In/>}/>
+        <Route path="/" element={<Sing_In/>}/>
           <Route path="/profil" element={<Show_Profil/>}/>
-          <Route path="/" element={<InstHome/>}/>
+          <Route path="/home" element={<InstHome/>}/>
         </Routes>
       </BrowserRouter>
     </div>
