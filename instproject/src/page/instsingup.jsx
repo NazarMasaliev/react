@@ -1,3 +1,4 @@
+
 function Sing_In() {
     return (
         <div className="container_fluid mt-5">
@@ -7,7 +8,7 @@ function Sing_In() {
                         <div className="col-6">
                             <div className="row">
                                 <div className="col-12 mb-5">
-                                    <i class="fa-solid fa-xmark fa-2xl" style={{ float: "right" }}></i>
+                                    <a href="/profil"><i class="fa-solid fa-xmark fa-2xl" style={{ float: "right" }}></i></a>
                                 </div>
                                 <div className="col-12 text-center mt-5 pt-5">
                                     <h2>Instagram</h2>
@@ -19,7 +20,7 @@ function Sing_In() {
                                 </div>
                                 <div className="col-12">
                                     <div className="form-group">
-                                        <input className="form-control mt-2" type="text" placeholder="Пароль" />
+                                        <input className="form-control mt-2" type="password" placeholder="Пароль"  />
                                     </div>
                                 </div>
                                 <div className="col-12 mt-2">
@@ -48,6 +49,9 @@ function Sing_In() {
                                 </div>
                                 <div className="col-12 mt-5 text-center">
                                     <a><small style={{color:"#0D6EFD"}}>Зарегистрируйтесь.</small></a>
+                                </div>
+                                <div className="col-12 text-center">
+                               
                                 </div>
                             </div>
                         </div>

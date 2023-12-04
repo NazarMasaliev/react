@@ -8,7 +8,7 @@ function InstFooter(){
             <div className="col-7 text-center">
                 <div className="row">
                     <div className="col-4">
-                       <a href="/" style={{color:"#000000"}}><i  class="fa-solid fa-house fa-2xl"></i></a>
+                       <a href="/home" style={{color:"#000000"}}><i  class="fa-solid fa-house fa-2xl"></i></a>
                     </div>
                     <div className="col-4">
                        <i class="fa-solid fa-magnifying-glass fa-2xl"></i>

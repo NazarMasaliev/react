@@ -39,10 +39,10 @@ function Show_Profil() {
                                         <div className="col-4">
                                             <div className="row">
                                                 <div className="col-12">
-                                                   <b>94</b> 
+                                                   <a href="/followers" className="text-dark text-decoration-none"><b>94</b></a> 
                                                 </div>
                                                 <div className="col-12">
-                                                    Подписчики
+                                                    <a href="/followers" className="text-dark text-decoration-none">Подписчики</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -72,7 +72,7 @@ function Show_Profil() {
                         <div className="col-12 mt-4">
                             <div className="row">
                                 <div className="col-5">
-                                    <button className="border-0 rounded" style={{background:"#EFEFEF",fontWeight:"500",width:"250px",height:"30px"}}>Изменить</button>
+                                    <button className="border-0 rounded" style={{background:"#EFEFEF",fontWeight:"500",width:"250px",height:"30px"}}><a href="/profilchange" className="text-decoration-none">Изменить</a></button>
                                 </div>
                                 <div className="col-7">
                                     <div className="row">

@@ -39,4 +39,17 @@
 *{
   box-sizing: border-box;
 
+
 }
+body{
+  padding-left: 10px;
+}
+.hoverBorderBottom1:hover{
+  border-bottom: solid 2px;
+  text-align: center;
+}
+.hoverBorderBottom1{
+  border-bottom: solid 2px white;
+  text-align: center;
+}
+
