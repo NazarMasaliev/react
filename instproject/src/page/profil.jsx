@@ -14,7 +14,7 @@ function Show_Profil() {
                                 </div>
                                 <div className="col-6" style={{float:"right"}}>
                                     <button className="border-0 bg-white" style={{float:"right"}}><i class="fa-regular fa-square-plus fa-2xl"></i></button>
-                                    <button className="border-0 bg-white" style={{marginRight:"20px",float:"right"}}><i class="fa-solid fa-bars fa-2xl"></i></button>
+                                    <button className="border-0 bg-white" style={{marginRight:"20px",float:"right"}}><a href="/changepassword"><i class="fa-solid fa-bars fa-2xl"></i></a></button>
                                 </div>
                             </div>
                         </div>

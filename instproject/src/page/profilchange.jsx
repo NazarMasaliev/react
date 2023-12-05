@@ -1,4 +1,4 @@
-function Change_Password() {
+function Change_Profil() {
     return (
         <div className="container">
             <div className="row">
@@ -102,4 +102,4 @@ function Change_Password() {
         </div>
     )
 }
-export default Change_Password
+export default Change_Profil
