@@ -25,7 +25,7 @@ function Sing_In() {
                                 </div>
                                 <div className="col-12 mt-2">
                                     <div style={{ float: "right" }}>
-                                        <small className="text-primary">Забыли пароль?</small>
+                                        <small className="text-primary"><a href="/changepassword">Забыли пароль?</a></small>
                                     </div>
                                 </div>
                                 <div className="col-12 mt-5">
