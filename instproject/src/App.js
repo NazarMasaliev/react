@@ -8,6 +8,7 @@ import Sing_In from './page/instsingup';
 import Change_Profil from './page/profilchange';
 import Followers from './page/followers';
 import Change_Password from './page/changepassword'
+import Iminjanov_Show from './page/iminjanovprofil';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
           <Route path="/profilchange" element={<Change_Profil/>}/>
           <Route path="/followers" element={<Followers/>}/>
           <Route path="/changepassword" element={<Change_Password/>}/>
+          <Route path="/iminjanovprofil" element={<Iminjanov_Show/>}/>
           
         </Routes>
       </BrowserRouter>

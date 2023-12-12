@@ -52,4 +52,14 @@ body{
   border-bottom: solid 2px white;
   text-align: center;
 }
+.imgin{
+  position: absolute;
+  left: 20px;
+}
+.imgin2{
+  position: absolute;
+  left: 40px;
+  width: 30px;
+  border-radius: 50%;
+}
 

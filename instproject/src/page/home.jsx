@@ -94,12 +94,12 @@ function InstHome() {
                                         <div className="col-6">
                                             <div className="row">
                                                 <div className="col-2">
-                                                    <img className="rounded-circle mt-1" src="https://www.funnyart.club/uploads/posts/2022-12/thumbs/1671175972_www-funnyart-club-p-krasivie-kvadratnie-kartinki-krasivo-62.jpg" alt="" style={{ width: "40px", height: "40px" }} />
+                                                <a href="/iminjanovprofil" className="text-decoration-none text-dark"><img className="rounded-circle mt-1" src="https://www.funnyart.club/uploads/posts/2022-12/thumbs/1671175972_www-funnyart-club-p-krasivie-kvadratnie-kartinki-krasivo-62.jpg" alt="" style={{ width: "40px", height: "40px" }} /></a>
                                                 </div>
                                                 <div className="col-10" style={{ textAlign: "left", padding: "0px" }}>
                                                     <div className="row">
                                                         <div className="col-12">
-                                                            Baatyrbekov_LLGG
+                                                            <a href="/iminjanovprofil" className="text-decoration-none text-dark">Iminjanov_n</a>
                                                         </div>
                                                         <div className="col-12">
                                                             e.24.07.k Оригинальное аудио
