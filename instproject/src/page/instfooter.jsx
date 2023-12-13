@@ -3,7 +3,7 @@ function InstFooter(){
     return(
 
     
-    <div className="col-12 mt-3npm">
+    <div className="col-12 mt-3 border pt-3 pb-3 pl-0 pr-0">
         <div className="row">
             <div className="col-7 text-center">
                 <div className="row">

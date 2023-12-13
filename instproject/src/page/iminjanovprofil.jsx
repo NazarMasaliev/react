@@ -10,7 +10,7 @@ function Iminjanov_Show() {
                                 <div className="col-12">
                                     <div className="row">
                                         <div className="col-4">
-                                            <a href="/profil"><i class="fa-solid fa-chevron-left fa-lg"></i></a>
+                                            <a href="/home"><i class="fa-solid fa-chevron-left fa-lg"></i></a>
                                         </div>
                                         <div className="col-4 text-left" style={{ textAlign: "center" }}>
                                             <b>Iminjanov</b>

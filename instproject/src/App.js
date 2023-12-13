@@ -9,6 +9,7 @@ import Change_Profil from './page/profilchange';
 import Followers from './page/followers';
 import Change_Password from './page/changepassword'
 import Iminjanov_Show from './page/iminjanovprofil';
+import Messpage from './page/messpage';
 
 
 function App() {
@@ -23,7 +24,7 @@ function App() {
           <Route path="/followers" element={<Followers/>}/>
           <Route path="/changepassword" element={<Change_Password/>}/>
           <Route path="/iminjanovprofil" element={<Iminjanov_Show/>}/>
-          
+          <Route path="/messpage" element={<Messpage/>}/>
         </Routes>
       </BrowserRouter>
     </div>

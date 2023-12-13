@@ -15,7 +15,7 @@ function InstHome() {
                                         <div className="col-6">
                                             <i class="fa-solid fa-heart fa-2xl" style={{ marginLeft: "180px" }}>
                                             </i>
-                                            <i class="fa-solid fa-comment fa-2xl" style={{ marginLeft: "50px" }}></i>
+                                            <a className="text-dark" href="/messpage"><i class="fa-solid fa-comment fa-2xl" style={{ marginLeft: "50px" }}></i></a>
                                         </div>
                                     </div>
                                 </div>
