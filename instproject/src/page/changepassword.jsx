@@ -18,7 +18,7 @@ function Change_Password() {
                                     <button className="btn btn-success">Изменить пароль</button>
                                 </div>
                                 <div className="col-12 text-center mt-5">
-                                    <a style={{ color: "#000000" }} href="/profil"><i class="fa-solid fa-user fa-2xl"></i></a>
+                                    <a style={{ color: "#000000" }} href="/profil"><i class="fa-solid fa-user fa-2xl"></i>Назад</a>
                                 </div>
                             </div>
                         </div>
